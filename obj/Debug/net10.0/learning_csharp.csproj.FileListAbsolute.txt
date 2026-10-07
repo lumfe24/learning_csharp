@@ -1,0 +1,14 @@
+/home/lumfe/Desktop/learning_csharp/bin/Debug/net10.0/learning_csharp
+/home/lumfe/Desktop/learning_csharp/bin/Debug/net10.0/learning_csharp.deps.json
+/home/lumfe/Desktop/learning_csharp/bin/Debug/net10.0/learning_csharp.runtimeconfig.json
+/home/lumfe/Desktop/learning_csharp/bin/Debug/net10.0/learning_csharp.dll
+/home/lumfe/Desktop/learning_csharp/bin/Debug/net10.0/learning_csharp.pdb
+/home/lumfe/Desktop/learning_csharp/obj/Debug/net10.0/learning_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/lumfe/Desktop/learning_csharp/obj/Debug/net10.0/learning_csharp.AssemblyInfoInputs.cache
+/home/lumfe/Desktop/learning_csharp/obj/Debug/net10.0/learning_csharp.AssemblyInfo.cs
+/home/lumfe/Desktop/learning_csharp/obj/Debug/net10.0/learning_csharp.csproj.CoreCompileInputs.cache
+/home/lumfe/Desktop/learning_csharp/obj/Debug/net10.0/learning_csharp.dll
+/home/lumfe/Desktop/learning_csharp/obj/Debug/net10.0/refint/learning_csharp.dll
+/home/lumfe/Desktop/learning_csharp/obj/Debug/net10.0/learning_csharp.pdb
+/home/lumfe/Desktop/learning_csharp/obj/Debug/net10.0/learning_csharp.genruntimeconfig.cache
+/home/lumfe/Desktop/learning_csharp/obj/Debug/net10.0/ref/learning_csharp.dll
